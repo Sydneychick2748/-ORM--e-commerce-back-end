@@ -60,12 +60,9 @@ THEN I can successfully create, update, and delete data in my database
 
 
 ## License
-
 There is no license on this project  
----
 
 ## Contribute
-
 If  you would like to contribute to this project, please go to my GitHub at : 
 
 ## Questions
