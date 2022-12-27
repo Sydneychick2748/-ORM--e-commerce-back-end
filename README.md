@@ -51,7 +51,17 @@ THEN my server is started, and the Sequelize models are synced to the MySQL data
 WHEN I open API GET routes in Insomnia for categories, products, or tags
 THEN the data for each of these routes are displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE courses in Insomnia
-THEN I can successfully create, update, and delete data in my database
+THEN I can successfully create, update, and delete data in my database.
+To start run the following command at the root of your project and answer the prompted questions:
+MySQL -u root -p
+Enter Password Word when promted
+source db/schema.sql
+quit
+npm run seed
+npm start
+If you want to see the project and how it click on the link:
+
+
 
 
 
