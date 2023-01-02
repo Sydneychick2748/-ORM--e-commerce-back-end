@@ -54,7 +54,7 @@ WHEN I test API POST, PUT, and DELETE courses in Insomnia
 THEN I can successfully create, update, and delete data in my database.
 To start run the following command at the root of your project and answer the prompted questions:
 MySQL -u root -p
-Enter Password Word when promted
+Enter Password Word when promoted
 source db/schema.sql
 quit
 npm run seed
