@@ -73,7 +73,7 @@ If you want to see the project and how it click on the link: <iframe src="https:
 There is no license on this project  
 
 ## Contribute
-If  you would like to contribute to this project, please go to my GitHub at : 
+If  you would like to contribute to this project, please go to my GitHub at : https://github.com/Sydneychick2748/-ORM--e-commerce-back-end
 
 ## Questions
 If you have any questions about this project, please contact me at anabennett77@gmail.com 
